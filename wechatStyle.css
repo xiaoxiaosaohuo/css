@@ -1,5 +1,5 @@
 body{
-   transform:translateY(17%)
+       transform: translateY(20%);
 }
 .impowerBox .qrcode {
     width: 200px;
