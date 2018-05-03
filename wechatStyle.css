@@ -6,11 +6,5 @@ body{
 }
 
 .impowerBox .info {
-    width: 200px;
     color:#ccc
-}
-
-
-.impowerBox .status {
-    text-align: center;
 }
