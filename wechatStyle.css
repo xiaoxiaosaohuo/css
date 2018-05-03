@@ -1,3 +1,6 @@
+body{
+   transform:translateY(17%)
+}
 .impowerBox .qrcode {
     width: 200px;
 }
