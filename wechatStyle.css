@@ -1,5 +1,5 @@
 body{
-       transform: translateY(20%);
+       transform: translateY(10%);
 }
 .impowerBox .qrcode {
     width: 200px;
@@ -8,3 +8,5 @@ body{
 .impowerBox .info {
     color:#ccc
 }
+.status_icon {display:none}
+.impowerBox .status {text-align:center;}
