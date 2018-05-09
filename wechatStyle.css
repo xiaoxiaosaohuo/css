@@ -1,6 +1,9 @@
 body{
        transform: translateY(10%);
 }
+.impowerBox .title, .normalPanel .title {
+       display: none;
+}
 .impowerBox .qrcode {
     width: 220px;
 }
